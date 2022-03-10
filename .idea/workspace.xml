@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9939deb-f9b0-499d-9fe9-dfe21a667634" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1URlfqk6mIQrTmCw8hePqrak1y9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ApplicationServer.Controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VALERA\source\repos\Prebiusta\Semester_Project_3\SEP3_BusinessLayer" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VALERA\source\repos\Prebiusta\Semester_Project_3\SEP3_BusinessLayer" />
+      <recent name="C:\Users\VALERA\source\repos\Prebiusta\Semester_Project_3\SEP3_BusinessLayer\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="AuthenticationControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SprintRestService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApplicationServer.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApplicationServer.Tests" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationServer.Tests.AuthenticationControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationControllerTest.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SprintRestService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApplicationServer.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApplicationServer.Tests" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationServer.Tests.AuthenticationControllerTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SprintRestService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApplicationServer.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApplicationServer.Tests" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationServer.Tests.ProjectControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SprintRestService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApplicationServer.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApplicationServer.Tests" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationServer.Tests.TaskControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskControllerTest.createTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SprintRestService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApplicationServer.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApplicationServer.Tests" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationServer.Tests.TaskControllerTest" />
+      <option name="METHOD_NAME" value="createTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SprintRestService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ApplicationServer.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TaskControllerTest" />
+      <item itemvalue="JUnit.ProjectControllerTest" />
+      <item itemvalue="JUnit.AuthenticationControllerTest.login" />
+      <item itemvalue="JUnit.AuthenticationControllerTest" />
+      <item itemvalue="JUnit.TaskControllerTest.createTask" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TaskControllerTest.createTask" />
+        <item itemvalue="JUnit.ProjectControllerTest" />
+        <item itemvalue="JUnit.TaskControllerTest" />
+        <item itemvalue="JUnit.AuthenticationControllerTest" />
+        <item itemvalue="JUnit.AuthenticationControllerTest.login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9939deb-f9b0-499d-9fe9-dfe21a667634" name="Default Changelist" comment="" />
+      <created>1575327394384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575327394384</updated>
+      <workItem from="1575327397438" duration="782000" />
+      <workItem from="1575383462279" duration="8709000" />
+      <workItem from="1575458135668" duration="604000" />
+      <workItem from="1575534625081" duration="12452000" />
+      <workItem from="1575627918741" duration="2191000" />
+      <workItem from="1575910707152" duration="341000" />
+      <workItem from="1575968898130" duration="1826000" />
+      <workItem from="1576157219965" duration="1299000" />
+      <workItem from="1576174031386" duration="975000" />
+      <workItem from="1576188693011" duration="613000" />
+      <workItem from="1576189360415" duration="5196000" />
+      <workItem from="1576239676497" duration="2839000" />
+      <workItem from="1576257864020" duration="1800000" />
+      <workItem from="1576270254239" duration="611000" />
+      <workItem from="1576335051179" duration="1211000" />
+      <workItem from="1576437755661" duration="6174000" />
+      <workItem from="1576508737181" duration="244000" />
+      <workItem from="1576508988139" duration="14000" />
+      <workItem from="1576509010460" duration="1612000" />
+      <workItem from="1576530954007" duration="1567000" />
+      <workItem from="1576534309393" duration="4776000" />
+      <workItem from="1576579123408" duration="2111000" />
+      <workItem from="1576596002835" duration="3610000" />
+      <workItem from="1576607884020" duration="10000" />
+      <workItem from="1576608460859" duration="6176000" />
+      <workItem from="1576744998253" duration="3794000" />
+      <workItem from="1576752128904" duration="888000" />
+      <workItem from="1576798015267" duration="4608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576607888620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576607888620" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SprintRestService$AuthenticationControllerTest_login.ic" NAME="AuthenticationControllerTest.login Coverage Results" MODIFIED="1576606993043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ApplicationServer.Tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SprintRestService$ProjectControllerTest.ic" NAME="ProjectControllerTest Coverage Results" MODIFIED="1576607522228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ApplicationServer.Controllers.*</FILTER>
+    </SUITE>
+  </component>
+</project>
